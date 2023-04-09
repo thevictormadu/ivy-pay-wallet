@@ -23,6 +23,7 @@
     <ProjectReference Include="..\Wallet.Models\WalletApp.Models.csproj" />
     <ProjectReference Include="..\Wallet.Services\WalletApp.Services.csproj" />
     <ProjectReference Include="..\WalletApp.Abstractions\WalletApp.Abstractions.csproj" />
+    <ProjectReference Include="..\WalletApp.Abstractions\WalletApp.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

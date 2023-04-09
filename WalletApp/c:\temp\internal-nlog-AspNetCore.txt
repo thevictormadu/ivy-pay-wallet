@@ -1,0 +1,7 @@
+2023-04-09 07:12:59.2253 Info Message Template Auto Format enabled
+2023-04-09 07:12:59.2384 Info Loading assembly: NLog.Web.AspNetCore
+2023-04-09 07:12:59.2638 Info Registered target FileTarget(Name=allfile)
+2023-04-09 07:12:59.2643 Info Registered target FileTarget(Name=ownFile-web)
+2023-04-09 07:12:59.2643 Info Registered target ConsoleTarget(Name=lifetimeConsole)
+2023-04-09 07:12:59.3513 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=58, FilePath=/Users/victorpraiz/Desktop/Wallet_App/WalletApp/bin/Debug/net6.0/NLog.config
+2023-04-09 07:12:59.5218 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=58, FilePath=/Users/victorpraiz/Desktop/Wallet_App/WalletApp/bin/Debug/net6.0/NLog.config
